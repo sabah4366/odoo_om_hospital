@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data noupdate="1">
+        <record id="patient_tag_vip" model="patient.tag">
+        <field name="name">Vvip</field>
+    </record>
+    <record id="patient_tag_bro" model="patient.tag">
+        <field name="name">Bro</field>
+    </record>
+
+    <record id="patient_tag_mr" model="patient.tag" forcecreate="0">
+        <field name="name">Machu</field>
+    </record>
+    </data>
+</odoo>

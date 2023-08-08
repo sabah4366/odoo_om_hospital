@@ -1,0 +1,3 @@
+id,name,active
+patient_tag_mrs,mrs,True
+patient_tag_special,special,True
